@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SettingsFirewall</string>
+    <string name="module_not_activated">Module not activated.\n Please enable this module in Xposed. \n Scope:\n For LSPosed users, select \"System Framework\"\n For Dreamland users, select only \"Settings Provider\".</string>
+    <string name="edit_settings_replacement">Edit settings replacement</string>
+    <string name="replaced_with">Replaced with %s</string>
+    <string name="editing">Editing: %s</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+</resources>
